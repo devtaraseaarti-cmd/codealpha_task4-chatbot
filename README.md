@@ -26,5 +26,5 @@ It responds to basic user inputs like:
    python chatbot.py
 
 ## 👩‍💻 Author
-Aarati Devtarase
+Aarti Devtarase
 
